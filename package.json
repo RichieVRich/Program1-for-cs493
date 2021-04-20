@@ -1,0 +1,20 @@
+{
+  "name": "richard",
+  "version": "1.0.0",
+  "description": "**Assignment due at 11:59pm on Monday 4/19/2010**<br/> **Demo due by 11:59pm on Monday 5/3/2021**",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osu-cs493-sp21/assignment-1-RichieVRich.git"
+  },
+  "bugs": {
+    "url": "https://github.com/osu-cs493-sp21/assignment-1-RichieVRich/issues"
+  },
+  "homepage": "https://github.com/osu-cs493-sp21/assignment-1-RichieVRich#readme"
+}
